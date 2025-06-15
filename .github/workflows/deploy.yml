@@ -37,6 +37,8 @@ jobs:
           node-version: 18.x
       - name: Install MyST Markdown
         run: npm install -g mystmd
+      - name: Fix navigation URLs
+        run: .github/fix_nav_urls.sh
       - name: Build HTML Assets
         run: myst build --html
       - name: Upload artifact

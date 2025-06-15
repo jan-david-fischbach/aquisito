@@ -40,13 +40,13 @@ Vereinsregister Aachen
 
 IBAN: DE72 4306 0967 1003 9179 00\
 BIC: GENODEM1GLS\
-[zum Spendenformular](/donations)
+[zum Spendenformular](donations)
 
 
-- [Datenschutzerklärung](/datenschutz)
-- [Satzung](/satzung)
-- [Fördervereinbarung](/foerdervereinbarung)
-- [Transparenz](/transparenz)
+- [Datenschutzerklärung](datenschutz)
+- [Satzung](satzung)
+- [Fördervereinbarung](foerdervereinbarung)
+- [Transparenz](transparenz)
 
 
 ::::

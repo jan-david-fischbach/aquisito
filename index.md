@@ -167,7 +167,7 @@ thomas@aquisito.de
 +++
 
 :::::{grid} 1 2  2
-### [Wir sind Teil der Initiative Transparente Zivilgesellschaft](/transparency)
+### [Wir sind Teil der Initiative Transparente Zivilgesellschaft](transparency)
 
 :::{image} ./images/Transparente_ZivilgesellschaftPNG.png
 :::
