@@ -42,7 +42,7 @@ Ziel ist es, binnen eines Jahres ein von Deutschland unabhängiges Projekt für 
 
 Die Engagierten bei CADSE unterstützen die Kinder intensiv im Fach Englisch, da dies von besonderer internationaler Relevanz ist. Allerdings ist der Englischunterricht in Bolivien meist ausbaufähig und deswegen müssen die Freiwilligen bei CADSE viel ergänzende Arbeit leisten. Aus diesem Grund nehmen ausgewählte Engagierte von CADSE an einem mehrmonatigen Englischkurs teil. Die Kosten werden zwischen den Freiwilligen und Aquisito aufgeteilt. 
 
-:::{note}
+:::{note} Finanzierung
 Aquisito finanzierte 933,30€ Lehrgebühren
 :::
 ::::
