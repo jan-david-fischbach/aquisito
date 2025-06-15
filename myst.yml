@@ -19,6 +19,7 @@ project:
     - file: impressum.md
     - file: satzung.md
     - file: datenschutz.md
+    - file: foerdervereinbarung.md
     
 site:
   template: book-theme
