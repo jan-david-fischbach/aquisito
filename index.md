@@ -125,7 +125,11 @@ Justified Block
 :height: 256px
 :::
 
-Text zu Toni
+
+Erste Vorsitzende\
+\
+toni@aquisito.de
+
 ::::
 
 ::::{card}
@@ -135,7 +139,11 @@ Text zu Toni
 :height: 256px
 :::
 
-Text zu Natha
+
+Stellvertretende Vorsitzende\
+Kooperationen\
+nathalie@aquisito.de
+
 
 ::::
 
@@ -146,7 +154,11 @@ Text zu Natha
 :height: 256px
 :::
 
-Text zu Thomas
+
+Rechnungsführer\
+Finanzen & Kooperationen\
+thomas@aquisito.de
+
 ::::
 
 
