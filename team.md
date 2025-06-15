@@ -34,8 +34,7 @@ Management und Betreuung
 ::::{card}
 :footer: Toni
 
-Erste Vorsitzende\
-\
+Erste Vorsitzende
 
 ::::
 

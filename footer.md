@@ -29,26 +29,31 @@ info@aquisito.de
 <!-- Spacer between project description and links columns -->
 
 ::::{div}
+::::
+
+::::{grid} 1 1 2 2
+:::{div}
 ## Sitz
 Ant Stäppken 33, 46348 Raesfeld\
 SteuerNr.: 201 5905 6228\
 Registernummer: VR6037\
 Vereinsregister Aachen 
-::::
+:::
 
-::::{div}
-
+:::{div}
+## Weiteres
 IBAN: DE72 4306 0967 1003 9179 00\
 BIC: GENODEM1GLS\
 [zum Spendenformular](donations)
 
 
-- [Datenschutzerklärung](datenschutz)
-- [Satzung](satzung)
-- [Fördervereinbarung](foerdervereinbarung)
-- [Transparenz](transparenz)
+[Datenschutzerklärung](datenschutz)\
+[Satzung](satzung)\
+[Fördervereinbarung](foerdervereinbarung)\
+[Transparenz](transparenz)
 
 
+:::
 ::::
 
 :::::

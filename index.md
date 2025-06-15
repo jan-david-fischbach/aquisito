@@ -86,7 +86,7 @@ Ein großes Gemeinschaftsprojekt von CADSE und Aquisito ist fertig: Ein Kochbuch
 
 Gemeinsam mit dem Verein Beethovianos Internacional e.V. entsenden wir durch das BMFSFJ finanzierte Freiwillige zu CADSE, sowie an eine Partnerschule in Bolivien. Alle Infos und Bewerbungsfristen findest du auf der Website der Beethovianos.
 
-::::{grid} 1 2 2 2
+::::{grid} 2 2 2 2
 :::{image} ./images/volunteer.jpg
 :height: 250px
 :::
@@ -115,7 +115,7 @@ Seit 2017 bietet die einheimische Pädagogin Mery mit ihrer Tageseinrichtung CAD
 
 ## Das Team
 
-:::::{grid} 1 2 3 3
+:::::{grid} 2 3 3 3
 ::::{card}
 :footer: Toni
 
