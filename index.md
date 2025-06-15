@@ -70,7 +70,7 @@ Alle Projekte aus dem Jahr 2023/2024 findest du hier.
 
 
 ::::{card}
-:url: /news_germany#kochbuch
+:url: news_germany#kochbuch
 :footer: Unser Kochbuch
 
 ## Bolivien Kocht
