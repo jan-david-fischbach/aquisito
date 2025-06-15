@@ -29,7 +29,7 @@ site:
     logo: images/Logo21_dark_ohneHintergrund.svg
     logo_dark: images/Logo21_dark_ohneHintergrund.svg
     style: ./css/style.css
-    # hide_toc: true
+    hide_toc: true
   nav:
     - title: Home
       url: /index
