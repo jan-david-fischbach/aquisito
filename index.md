@@ -113,8 +113,6 @@ Seit 2017 bietet die einheimische Pädagogin Mery mit ihrer Tageseinrichtung CAD
 
 +++ { "kind": "justified"}
 
-Justified Block
-
 ## Das Team
 
 :::::{grid} 1 2 3 3
