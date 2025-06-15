@@ -8,97 +8,164 @@ site:
 
 +++ { "kind": "split-image" }
 
-Welcome
+Aquisito e.V.
 
-## Welcome to My Landing Page
+## Gemeinsam Groß Werden
 
-Accelerating discovery through better scientific communication tools.
+eine Kooperation zwischen dem Kinder- und Jugendzentrum CADSE in Bolivien und Aquisito e.V. in Deutschland
 
-![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png)
+![](images/leapfrog.jpg)
 
-{button}`Documentation <https://mystmd.org/guide/website-landing-pages>`
+{button}`Jetzt Spenden <donations.md>`
+
++++ { "kind": "justified"}
+
+## Aktuelles
+
+:::::{grid} 1 2 3 3
+::::{card}
+:url: /news_bolivia#libelula
+:footer: Libélula
+
+:::{image} ./images/libelula_placeholder.png
+:height: 256px
+:::
+
+
+Am 15.05.2024 startete CADSEs und Aquisitos wohl größtes Projekt. Dank der Förderung der Schmitz Stiftung in Höhe von 9.990€ konnte CADSE am 01.07.2024 die ersten Kinder am zweiten Standort von CADSE im Norden von Cochabamba begrüßen.
+Ziel ist es, binnen eines Jahres ein von Deutschland unabhängiges Projekt für bis zu 48 Kinder aufzubauen.
+::::
+
+::::{card}
+:url: /news_bolivia#weiterbildung
+:footer: Weiterbildung
+
+Die Engagierten bei CADSE unterstützen die Kinder intensiv im Fach Englisch, da dies von besonderer internationaler Relevanz ist. Allerdings ist der Englischunterricht in Bolivien meist ausbaufähig und deswegen müssen die Freiwilligen bei CADSE viel ergänzende Arbeit leisten. Aus diesem Grund nehmen ausgewählte Engagierte von CADSE an einem mehrmonatigen Englischkurs teil. Die Kosten werden zwischen den Freiwilligen und Aquisito aufgeteilt. 
+
+:::{note}
+Aquisito finanzierte 933,30€ Lehrgebühren
+:::
+::::
+
+::::{card}
+:url: /news_bolivia
+:footer: Abgeschlossene Projekte
+
+:::{image} ./images/bastel.jpg
+:height: 400px
+:::
+
+Alle Projekte aus dem Jahr 2023/2024 findest du hier.
+::::
+
+:::::
+
++++ { "kind": "justified"}
+
+:::::{grid} 1 2 2 2
+
+::::{figure} videos/kochbuch.mp4
+:width: 2000px
+::::
+
+
+::::{card}
+:url: /news_germany#kochbuch
+:footer: Unser Kochbuch
+
+## Bolivien Kocht
+Ein großes Gemeinschaftsprojekt von CADSE und Aquisito ist fertig: Ein Kochbuch, das Deutschland die Türen zur bolivianischen Küche öffnet.
+::::
+
+:::::
+
+
++++
+
+## Freiwilligendienst bei CADSE
+
+Gemeinsam mit dem Verein Beethovianos Internacional e.V. entsenden wir durch das BMFSFJ finanzierte Freiwillige zu CADSE, sowie an eine Partnerschule in Bolivien. Alle Infos und Bewerbungsfristen findest du auf der Website der Beethovianos.
+
+::::{grid} 1 2 2 2
+:::{image} ./images/volunteer.jpg
+:height: 250px
+:::
+
+:::{image} ./images/beethovianos.jpg
+:height: 250px
+:::
+::::
+
+
+> Wo Mery hingeht, da sind auch Kinder. Diese Kinder fühlen sich geborgen, geliebt und ernst genommen.
+
+::::{figure} images/mery
+Mery Torico: Koordinatorin von CADSE in Cochabamba.
+::::
+
+Seit 2017 bietet die einheimische Pädagogin Mery mit ihrer Tageseinrichtung CADSE Kindern in Cochabamba (Bolivien) einen sicheren Ort zum Aufwachsen. Neben Hausaufgabenbetreuung erhalten sie die Möglichkeit, sorglos in die Zukunft blicken zu können. Bei Sport-, Kunst- oder Englischunterricht lernen die Kinder Werte wie Zusammenhalt, Selbstbewusstsein und Toleranz kennen, für welche in der Schule keine Zeit bleibt. Wir sind stolz, der gemeinnütziger Partnerverein in Deutschland zu sein!
+
+
+## `"Aquisito"` ist die spanische Verniedlichung für `"Hier"`
+… die vor allem in Cochabamba häufig verwendet wird. Wir von Aquisito e.V. wollen niemanden vorschreiben, was Entwicklungszusammenarbeit ist und wissen auch nicht immer, wo die meiste Unterstützung gebraucht wird. Mery und ihr Team kommen selbst aus dem Stadtteil und kennen die Bedürfnisse und Umstände der Familien. Aus diesem Grund kann CADSE lokal und gezielt Probleme anpacken.
+
+
 
 +++ { "kind": "justified"}
 
 Justified Block
 
-## Ready to dive right in?
+## Das Team
 
-:::::{grid} 1 2 2 2
+:::::{grid} 1 2 3 3
 ::::{card}
-:url: https://next.juptyerbook.org
-:footer: Jupyter Book
+:footer: Toni
 
-:::{image} ./images/jupyter-book.webp
+:::{image} ./images/toni.png
 :height: 256px
 :::
 
-Jupyter Book Documentation
+Text zu Toni
 ::::
 
 ::::{card}
-:url: https://mystmd.org
-:footer: MyST Markdown
+:footer: Natha
 
-:::{image} ./images/mystmd.svg
+:::{image} ./images/natha.png
 :height: 256px
 :::
 
-MyST Documentation
+Text zu Natha
+
 ::::
+
+::::{card}
+:footer: Thomas
+
+:::{image} ./images/thomas.png
+:height: 256px
+:::
+
+Text zu Thomas
+::::
+
+
+{button}`Zur Teamübersicht <Team.md>`
 
 :::::
 
-+++ {"kind": "logo-cloud"}
++++
 
-Other projects you've heard of
+:::::{grid} 1 2  2
+### [Wir sind Teil der Initiative Transparente Zivilgesellschaft](/transparency)
 
-::::{grid} 1 2 3 3
-
-:::{figure} ./images/jupyter.png
-:height: 100px
-Jupyter
+:::{image} ./images/Transparente_ZivilgesellschaftPNG.png
 :::
-
-:::{figure} ./images/nasa-tops.webp
-:height: 100px
-NASA TOPS
-:::
-
-:::{figure} ./images/nasa.webp
-:height: 100px
-NASA
-:::
-::::
-
-{button}`Our Funders<#>`
+:::::
 
 +++ { "kind": "centered"}
 
-## Heading 1
+:::{image} ./images/sonne.svg
+:height: 256px
+:::
 
-A wild caption appeared!
-
-### Heading 2
-
-{button}`Get started<#>` See more
-
-[Learn more]()
-
-+++ { "kind": "justified"}
-
-A subtitle?
-
-## Heading 1
-
-A wild caption appeared!
-
-### Heading 2
-
-{button}`Get started<#>` This is a description.
-
-[Learn more]()
-
-+++ { "kind": "no-such-block" }
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

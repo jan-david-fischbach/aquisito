@@ -14,46 +14,40 @@
 
 ::::{div}
 
-# Landing Pages
-
-```{image} https://jupyterbook.org/en/stable/_images/logo-square.svg
-:width: 50px
+```{image} images/Logo21_dark_ohneHintergrund.svg
+:width: 200px
 :align: left
 ```
 
-This is a description of our project. And a [link to its homepage](https://github.com/jupyter-book/example-landing-pages).
+Aquisito e.V.\
+Vorsitzende: Antonia Tröll\
+Tel.: 015774266766\
+info@aquisito.de
+
 ::::
 
 <!-- Spacer between project description and links columns -->
 
 ::::{div}
+## Sitz
+Ant Stäppken 33, 46348 Raesfeld\
+SteuerNr.: 201 5905 6228\
+Registernummer: VR6037\
+Vereinsregister Aachen 
 ::::
 
-<!-- Link columns -->
+::::{div}
 
-% This a _second_ grid embedded within the first one, to create nicer
-% responsive design experience. This grid will have a single column on narrow screens,
-% and fan out into three columns on wide screens. However, it always remains within
-% its parent grid column.
-::::{grid} 1 1 3 3
+IBAN: DE72 4306 0967 1003 9179 00\
+BIC: GENODEM1GLS\
+[zum Spendenformular](/donations)
 
-:::{div}
 
-- [About](https://mystmd.org/overview/ecosystem)
-- [Guide](https://mystmd.org/guide)
-- [Sandbox](https://mystmd.org/sandbox)
-  :::
+- [Datenschutzerklärung](/datenschutz)
+- [Satzung](/satzung)
+- [Fördervereinbarung](/foerdervereinbarung)
+- [Transparenz](/transparenz)
 
-:::{div}
-
-- A second column!
-- With multiple entries
-  :::
-
-:::{div}
-
-- And what about a third
-  :::
 
 ::::
 

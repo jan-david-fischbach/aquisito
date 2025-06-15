@@ -2,17 +2,53 @@
 version: 1
 project:
   id: ee007168-b9a5-4dba-8823-1639a4aeb956
-  title: Hello Landing Pages
+  title: Aquisito
   toc:
     - file: index.md
+    - title: Über Uns
+      children:
+      - file: what-we-do.md
+      - file: team.md
+    - title: Aktuelles
+      children:
+      - file: news_bolivia.md
+      - file: news_germany.md
+    - file: volunteers.md
+    - file: donations.md
+    - file: transparenz.md
+    - file: impressum.md
+    - file: satzung.md
+    - file: datenschutz.md
+    
 site:
   template: book-theme
-  title: Hello Landing Pages
+  title: Aquisito
   options:
-    favicon: favicon.ico
-    logo: site_logo.png
-    logo_text: Landing Pages
-    style: ./css/footer.css
-
+    favicon: images/sonne.ico
+    logo: images/Logo21_dark_ohneHintergrund.svg
+    logo_dark: images/Logo21_dark_ohneHintergrund.svg
+    style: ./css/style.css
+    hide_toc: true
+  nav:
+    - title: Home
+      url: /index
+    - title: Über Uns
+      children:
+      - title: Was wir tun
+        url: /what-we-do
+      - title: Das Team
+        url: /team
+    - title: Aktuelles
+      children:
+      - title: Aus Bolivien
+        url: /news-bolivia
+      - title: Aus Deutschland
+        url: /news-germany
+    - title: Freiwillige
+      url: /volunteers
+    - title: Spenden
+      url: /donations
   parts:
     footer: footer.md
+
+  
