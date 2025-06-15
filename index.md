@@ -88,11 +88,9 @@ Gemeinsam mit dem Verein Beethovianos Internacional e.V. entsenden wir durch das
 
 ::::{grid} 2 2 2 2
 :::{image} ./images/volunteer.jpg
-:height: 250px
 :::
 
 :::{image} ./images/beethovianos.jpg
-:height: 250px
 :::
 ::::
 
@@ -120,7 +118,7 @@ Seit 2017 bietet die einheimische Pädagogin Mery mit ihrer Tageseinrichtung CAD
 :footer: Toni
 
 :::{image} ./images/toni.jpg
-:height: 256px
+:width: 100%
 :::
 
 
@@ -134,7 +132,7 @@ toni@aquisito.de
 :footer: Natha
 
 :::{image} ./images/natha.jpg
-:height: 256px
+:width: 100%
 :::
 
 
@@ -149,7 +147,7 @@ nathalie@aquisito.de
 :footer: Thomas
 
 :::{image} ./images/thomas.jpeg
-:height: 256px
+:width: 100%
 :::
 
 
@@ -167,7 +165,7 @@ thomas@aquisito.de
 +++
 
 :::::{grid} 1 2  2
-### [Wir sind Teil der Initiative Transparente Zivilgesellschaft](transparency)
+### [Wir sind Teil der Initiative Transparente Zivilgesellschaft](transparenz)
 
 :::{image} ./images/Transparente_ZivilgesellschaftPNG.png
 :::
