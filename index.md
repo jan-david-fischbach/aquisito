@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Landing Page
+title: Aquisito
 site:
   hide_title_block: true
   hide_toc: true
