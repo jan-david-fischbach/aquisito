@@ -162,7 +162,7 @@ thomas@aquisito.de
 ::::
 
 
-{button}`Zur Teamübersicht <Team.md>`
+{button}`Zur Teamübersicht <team.md>`
 
 :::::
 

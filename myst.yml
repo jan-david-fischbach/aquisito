@@ -51,5 +51,6 @@ site:
       url: /donations
   parts:
     footer: footer.md
+  domains: []
 
   
