@@ -25,13 +25,7 @@ Sende uns den ausgefüllten [schriftlichen Antrag](documents/Aquisito_Fördermit
 Wir freuen uns über jede Spende! Überweise uns ganz einfach den gewünschten Betrag auf das nebenstehende Konto. Für Beträge bis zu 300€ jährlich reicht dir ein einfacher Kontoauszug als Spendenbescheinigung. Für Beträge über 300€ stellen wir gerne eine Bescheinigung aus. Sende hierzu bitte eine E-Mail mit deiner Adresse info@aquisito.de.\
 ACHTUNG: Wenn du wissen willst, wie deine Spende in Bolivien eingesetzt wurde, solltest du dich am Ende dieser Seite für den Newsletter eintragen!
 
-:::{div}
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="G7H3N3XQP8XZJ" />
-<input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Spenden mit dem PayPal-Button" />
-<img alt="" border="0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
-</form>
-:::
+{button}`Spende via PayPal <https://www.paypal.com/donate/?hosted_button_id=BWK48NNFGLMQJ>`
 
 :::{note}Unsere Kontodaten
 
