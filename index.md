@@ -20,6 +20,8 @@ eine Kooperation zwischen dem Kinder- und Jugendzentrum CADSE in Bolivien und Aq
 
 +++ { "kind": "justified"}
 
+
+
 ## Aktuelles
 
 :::::{grid} 1 2 3 3
@@ -70,13 +72,10 @@ Alle Projekte aus dem Jahr 2023/2024 findest du hier.
 
 
 ::::{note} Unser Kochbuch
-
-## Bolivien Kocht
 In einem großen Gemeinschaftsprojekt haben CADSE und Aquisito zusammen ein Kochbuch geschrieben, das Deutschland die Türen zur bolivianischen Küche öffnet.
 Bestelle dir jetzt dein Exemplar und unterstütze damit die Arbeit von CADSE in Bolivien! 
 
-{button}`Kochbuch Bestellen <https://www.paypal.com/donate/?hosted_button_id=7LRKA636K85E6>`
-
+[Kochbuch bestellen](https://www.paypal.com/donate/?hosted_button_id=7LRKA636K85E6)
 ::::
 
 :::::
@@ -109,7 +108,10 @@ Seit 2017 bietet die einheimische Pädagogin Mery mit ihrer Tageseinrichtung CAD
 ## `"Aquisito"` ist die spanische Verniedlichung für `"Hier"`
 … die vor allem in Cochabamba häufig verwendet wird. Wir von Aquisito e.V. wollen niemanden vorschreiben, was Entwicklungszusammenarbeit ist und wissen auch nicht immer, wo die meiste Unterstützung gebraucht wird. Mery und ihr Team kommen selbst aus dem Stadtteil und kennen die Bedürfnisse und Umstände der Familien. Aus diesem Grund kann CADSE lokal und gezielt Probleme anpacken.
 
-
+:::{warning} Technische Schwierigkeiten
+Aufgrund vorrübergehender technischer Schwierigkeiten ist die Website aquisito.de nur eingeschränkt nutzbar.
+Wir bitten etwaige Unannehmlichkeiten zu entschuldigen. Leider können wir noch nicht abschätzen wie lange die Störung andauern wird.
+:::
 
 +++ { "kind": "justified"}
 
