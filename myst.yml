@@ -32,8 +32,6 @@ site:
     style: ./css/style.css
     hide_toc: true
   nav:
-    - title: Home
-      url: /index
     - title: Über Uns
       children:
       - title: Was wir tun
