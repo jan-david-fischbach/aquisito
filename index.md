@@ -20,7 +20,11 @@ eine Kooperation zwischen dem Kinder- und Jugendzentrum CADSE in Bolivien und Aq
 
 +++ { "kind": "justified"}
 
-
+####
+:::{warning} Technische Schwierigkeiten
+Aufgrund vorrübergehender technischer Schwierigkeiten ist die Website aquisito.de nur eingeschränkt nutzbar.
+Wir bitten etwaige Unannehmlichkeiten zu entschuldigen. Leider können wir noch nicht abschätzen wie lange die Störung andauern wird.
+:::
 
 ## Aktuelles
 
