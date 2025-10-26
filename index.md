@@ -75,6 +75,9 @@ Alle Projekte aus dem Jahr 2023/2024 findest du hier.
 
 ## Bolivien Kocht
 Ein großes Gemeinschaftsprojekt von CADSE und Aquisito ist fertig: Ein Kochbuch, das Deutschland die Türen zur bolivianischen Küche öffnet.
+
+{button}`Kochbuch Bestellen <https://www.paypal.com/donate/?hosted_button_id=7LRKA636K85E6>`
+
 ::::
 
 :::::
