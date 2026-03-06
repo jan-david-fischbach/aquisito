@@ -5,7 +5,7 @@ project:
   title: Aquisito
   allowDangerousHtml: true
   toc:
-    - file: index.md
+    - file: landing.md
     - title: Über Uns
       children:
       - file: what-we-do.md
@@ -21,6 +21,7 @@ project:
     - file: satzung.md
     - file: datenschutz.md
     - file: foerdervereinbarung.md
+    - file: landing.md
     
 site:
   template: book-theme

@@ -52,6 +52,8 @@ Hier findest du eine Übersicht unserer Finanzen:
 - unser Finanzbericht 2021 [(download)](documents/Finanzbericht-2021.pdf)
 - unser Finanzbericht 2022 [(download)](documents/Finanzbericht-2022.pdf)
 - unser Finanzbericht 2023 [(download)](documents/Finanzbericht-2023.pdf)
+- unser Finanzbericht 2024 [(download)](documents/Finanzbericht-2024.pdf)
+- unser Finanzbericht 2025 [(download)](documents/Finanzbericht-2025.pdf)
  
 
 Übersicht über unsere Kassenstände:

@@ -72,3 +72,30 @@ article {
     background-color: #819e00c5;
   }
 }
+/* 1. Force the container background from stone-900 to white */
+.bg-stone-900.rounded-md {
+    background-color: white !important;
+}
+
+/* 2. Fix the Heading: Keep the exact 5xl size/font but change color to black */
+.bg-stone-900.rounded-md h2.text-white {
+    color: #809e00 !important; /* This is the 'stone-900' hex code for text */
+}
+
+/* 3. Fix the Body Text: Override 'prose-invert' to use dark text colors */
+.bg-stone-900.rounded-md .prose-invert {
+    --tw-prose-body: #44403c !important; /* stone-700 */
+    --tw-prose-headings: #1c1917 !important;
+    --tw-prose-links: #809e00 !important; /* Your brand green */
+    color: var(--tw-prose-body) !important;
+}
+
+/* 4. Fix the Sub-header (Aquisito e.V.): Darken the Indigo for white BG */
+.bg-stone-900.rounded-md .text-indigo-400 {
+    color: #4f46e5 !important; /* Indigo-600 */
+}
+
+/* 5. Keep the Button text white */
+.bg-stone-900.rounded-md a.button {
+    color: white !important;
+}
