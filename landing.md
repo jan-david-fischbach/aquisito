@@ -170,15 +170,6 @@ thomas@aquisito.de
 
 :::::
 
-+++
-
-:::::{grid} 1 2  2
-### Wir sind Teil der Initiative Transparente Zivilgesellschaft
-
-:::{image} ./images/Transparente_ZivilgesellschaftPNG.png
-:::
-:::::
-
 +++ { "kind": "centered"}
 
 :::{image} ./images/sonne.svg
